@@ -1,0 +1,18 @@
+{
+	"server": "https://dev-kobi-cucumber-gw.sealights.co/api",
+	"interval": 10000,
+	"enabled": true,
+	"customerId": "cus1",
+	"httpColoring": {
+		"incoming": false,
+		"outgoing": false
+	},
+	"sendEvents": true,
+	"sendFootprints": true,
+	"checkTestStatusPeriodically": false,
+	"httpListeningPort": 0,
+	"appName": "app1",
+	"build": "1",
+	"environmentName": "Cucumber Tests",
+	"branch":"master"
+}

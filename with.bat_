@@ -1,0 +1,2 @@
+set NODE_DEBUG=sl-console
+node_modules/.bin/sl-node cucumber.js
